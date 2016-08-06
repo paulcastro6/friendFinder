@@ -1,0 +1,86 @@
+var friends = [
+{
+  "name":"Kermit",
+  "photo":"http://vignette3.wikia.nocookie.net/muppet/images/7/79/Kermit-the-frog.jpg/revision/latest?cb=20101015153557",
+  "scores":[
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+     ]
+},
+{
+  "name":"Cookie Monster",
+  "photo":"http://vignette2.wikia.nocookie.net/muppet/images/0/08/CookieMonsterWaving.jpg/revision/latest?cb=20120128192952",
+  "scores":[
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+     ]
+},
+{
+  "name":"Gonzo",
+  "photo":"http://vignette1.wikia.nocookie.net/muppet/images/3/31/Gonzo-TheVoice-2012.jpg/revision/latest?cb=20121208171306",
+  "scores":[
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+     ]
+},
+{
+  "name":"Snuffleupagus",
+  "photo":"http://vignette2.wikia.nocookie.net/muppet/images/f/fc/Character.snuffy.jpg/revision/latest?cb=20100405201116",
+  "scores":[
+     4,
+     4,
+     4,
+     4,
+     4,
+     4,
+     4,
+     4,
+     4,
+     4
+     ]
+},
+{
+  "name":"Oscar",
+  "photo":"http://vignette1.wikia.nocookie.net/muppet/images/5/5b/Oscar-can.png/revision/latest?cb=20120117061845",
+  "scores":[
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5
+     ]
+}
+
+];
+
+
+module.exports = friends;
